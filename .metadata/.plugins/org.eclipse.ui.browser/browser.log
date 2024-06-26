@@ -1,0 +1,322 @@
+
+Feb 15, 2023 13:46:22.770 NEW SESSION
+Feb 15, 2023 13:46:22.770 [29132:32896:0215/134622.768:ERROR:device_event_log_impl.cc(218)] [13:46:22.768] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 15, 2023 13:46:22.771 [29132:32896:0215/134622.768:ERROR:device_event_log_impl.cc(218)] [13:46:22.768] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 15, 2023 13:46:22.773 [29132:32896:0215/134622.772:ERROR:device_event_log_impl.cc(218)] [13:46:22.773] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 15, 2023 13:46:22.807 [29132:34028:0215/134622.806:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 13:46:44.450 [29132:34028:0215/134644.450:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 13:47:35.14 [29132:34028:0215/134735.014:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 13:49:21.854 [29132:34028:0215/134921.853:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 13:52:19.626 [29132:34028:0215/135219.626:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 13:58:39.427 [29132:34028:0215/135839.427:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Feb 15, 2023 14:07:11.686 [29132:32896:0215/140711.686:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 15, 2023 14:08:39.434 [29132:34028:0215/140839.434:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Feb 21, 2023 19:36:02.732 NEW SESSION
+Feb 21, 2023 19:36:02.732 [16432:23204:0221/193602.731:ERROR:device_event_log_impl.cc(218)] [19:36:02.732] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 21, 2023 19:36:02.733 [16432:23204:0221/193602.732:ERROR:device_event_log_impl.cc(218)] [19:36:02.732] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 19:36:02.737 [16432:23204:0221/193602.736:ERROR:device_event_log_impl.cc(218)] [19:36:02.737] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 25, 2023 08:22:53.779 NEW SESSION
+Feb 25, 2023 08:22:53.779 [25160:13860:0225/082253.778:ERROR:device_event_log_impl.cc(218)] [08:22:53.778] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 25, 2023 08:22:53.779 [25160:13860:0225/082253.779:ERROR:device_event_log_impl.cc(218)] [08:22:53.779] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 08:22:53.787 [25160:13860:0225/082253.787:ERROR:device_event_log_impl.cc(218)] [08:22:53.787] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 09:03:13.585 [14068:5668:0225/090313.585:ERROR:device_event_log_impl.cc(218)] [09:03:13.585] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 25, 2023 09:03:13.586 [14068:5668:0225/090313.586:ERROR:device_event_log_impl.cc(218)] [09:03:13.586] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 09:03:13.593 [14068:5668:0225/090313.593:ERROR:device_event_log_impl.cc(218)] [09:03:13.593] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 25, 2023 19:40:50.731 NEW SESSION
+Feb 25, 2023 19:40:50.731 [6156:9352:0225/194050.730:ERROR:device_event_log_impl.cc(218)] [19:40:50.729] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 25, 2023 19:40:50.732 [6156:9352:0225/194050.731:ERROR:device_event_log_impl.cc(218)] [19:40:50.730] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 19:40:50.739 [6156:9352:0225/194050.738:ERROR:device_event_log_impl.cc(218)] [19:40:50.737] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 25, 2023 22:07:03.635 [6156:9352:0225/220703.632:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Feb 26, 2023 09:41:41.739 NEW SESSION
+Feb 26, 2023 09:41:41.739 [26868:23188:0226/094141.738:ERROR:device_event_log_impl.cc(218)] [09:41:41.737] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 26, 2023 09:41:41.745 [26868:23188:0226/094141.744:ERROR:device_event_log_impl.cc(218)] [09:41:41.744] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 09:41:41.747 [26868:23188:0226/094141.747:ERROR:device_event_log_impl.cc(218)] [09:41:41.747] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 26, 2023 09:42:19.782 [26868:23188:0226/094219.782:ERROR:device_event_log_impl.cc(218)] [09:42:19.784] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 26, 2023 09:42:19.791 [26868:23188:0226/094219.791:ERROR:device_event_log_impl.cc(218)] [09:42:19.796] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 26, 2023 09:42:28.391 [26868:23188:0226/094228.391:ERROR:device_event_log_impl.cc(218)] [09:42:28.391] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 26, 2023 09:42:28.397 [26868:23188:0226/094228.397:ERROR:device_event_log_impl.cc(218)] [09:42:28.397] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 26, 2023 09:42:36.387 [26868:23188:0226/094236.387:ERROR:device_event_log_impl.cc(218)] [09:42:36.390] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 26, 2023 09:42:36.411 [26868:23188:0226/094236.410:ERROR:device_event_log_impl.cc(218)] [09:42:36.404] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Feb 26, 2023 09:42:37.697 [26868:23188:0226/094237.697:ERROR:device_event_log_impl.cc(218)] [09:42:37.699] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 26, 2023 09:42:37.707 [26868:23188:0226/094237.707:ERROR:device_event_log_impl.cc(218)] [09:42:37.710] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Feb 27, 2023 14:34:35.654 NEW SESSION
+Feb 27, 2023 14:34:35.657 [32940:33056:0227/143435.646:ERROR:device_event_log_impl.cc(218)] [14:34:35.647] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 27, 2023 14:34:35.660 [32940:33056:0227/143435.660:ERROR:device_event_log_impl.cc(218)] [14:34:35.661] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 14:34:35.664 [32940:33056:0227/143435.664:ERROR:device_event_log_impl.cc(218)] [14:34:35.664] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 15:28:46.186 [32940:33056:0227/152846.185:ERROR:interface_endpoint_client.cc(695)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Feb 27, 2023 17:07:19.82 NEW SESSION
+Feb 27, 2023 17:07:19.82 [7604:26960:0227/170719.080:ERROR:device_event_log_impl.cc(218)] [17:07:19.079] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 27, 2023 17:07:19.83 [7604:26960:0227/170719.083:ERROR:device_event_log_impl.cc(218)] [17:07:19.083] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 17:07:19.89 [7604:26960:0227/170719.088:ERROR:device_event_log_impl.cc(218)] [17:07:19.088] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 17:28:50.197 [7604:12240:0227/172850.197:ERROR:cert_verify_proc_builtin.cc(677)] CertVerifyProcBuiltin for uis.ptithcm.edu.vn failed:
+Feb 27, 2023 17:28:50.198 ----- Certificate i=0 (CN=*.ptithcm.edu.vn) -----
+Feb 27, 2023 17:28:50.198 ERROR: Time is after notAfter
+Feb 27, 2023 17:28:50.198 
+Feb 27, 2023 17:28:50.198 
+Feb 27, 2023 17:49:17.90 [7604:26960:0227/174917.089:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Feb 28, 2023 11:38:24.306 NEW SESSION
+Feb 28, 2023 11:38:24.306 [17572:32964:0228/113824.304:ERROR:device_event_log_impl.cc(218)] [11:38:24.304] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2023 11:38:24.307 [17572:32964:0228/113824.307:ERROR:device_event_log_impl.cc(218)] [11:38:24.308] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 11:38:24.314 [17572:32964:0228/113824.314:ERROR:device_event_log_impl.cc(218)] [11:38:24.314] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 28, 2023 14:36:41.143 NEW SESSION
+Feb 28, 2023 14:36:41.143 [31528:31204:0228/143641.141:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Feb 28, 2023 14:36:42.725 [31528:31204:0228/143642.724:ERROR:device_event_log_impl.cc(218)] [14:36:42.725] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Feb 28, 2023 14:36:42.725 [31528:31204:0228/143642.725:ERROR:device_event_log_impl.cc(218)] [14:36:42.726] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 14:36:42.733 [31528:31204:0228/143642.733:ERROR:device_event_log_impl.cc(218)] [14:36:42.733] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 28, 2023 14:58:01.480 [31528:31204:0228/145801.480:ERROR:interface_endpoint_client.cc(695)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Mar 01, 2023 14:24:11.45 NEW SESSION
+Mar 01, 2023 14:24:11.45 [34200:33840:0301/142411.044:ERROR:device_event_log_impl.cc(218)] [14:24:11.044] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:24:11.45 [34200:33840:0301/142411.044:ERROR:device_event_log_impl.cc(218)] [14:24:11.045] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 14:24:11.48 [34200:33840:0301/142411.048:ERROR:device_event_log_impl.cc(218)] [14:24:11.049] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 01, 2023 14:24:11.99 [34200:30988:0301/142411.099:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2023 14:24:35.169 [34200:30988:0301/142435.169:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2023 14:25:17.984 [34200:30988:0301/142517.984:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2023 14:26:43.106 [34200:30988:0301/142643.105:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2023 14:29:47.43 [34200:33840:0301/142947.043:ERROR:device_event_log_impl.cc(218)] [14:29:47.042] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:29:47.53 [34200:33840:0301/142947.053:ERROR:device_event_log_impl.cc(218)] [14:29:47.057] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 01, 2023 14:30:35.801 [34200:30988:0301/143035.800:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2023 14:31:54.198 [34200:33840:0301/143154.196:ERROR:interface_endpoint_client.cc(695)] Message 5 rejected by interface blink.mojom.WidgetHost
+Mar 01, 2023 14:33:06.440 [34200:33840:0301/143306.440:ERROR:device_event_log_impl.cc(218)] [14:33:06.441] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:33:19.674 [34200:33840:0301/143319.673:ERROR:device_event_log_impl.cc(218)] [14:33:19.665] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:33:19.691 [34200:33840:0301/143319.690:ERROR:device_event_log_impl.cc(218)] [14:33:19.680] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 01, 2023 14:34:01.530 [34200:33840:0301/143401.530:ERROR:device_event_log_impl.cc(218)] [14:34:01.530] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:34:07.525 [34200:33840:0301/143407.525:ERROR:device_event_log_impl.cc(218)] [14:34:07.522] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:34:07.536 [34200:33840:0301/143407.536:ERROR:device_event_log_impl.cc(218)] [14:34:07.535] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 01, 2023 14:36:15.188 [34200:33840:0301/143615.188:ERROR:device_event_log_impl.cc(218)] [14:36:15.197] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:36:15.208 [34200:33840:0301/143615.208:ERROR:device_event_log_impl.cc(218)] [14:36:15.208] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 01, 2023 14:36:21.565 [34200:30988:0301/143621.565:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 01, 2023 14:36:57.451 [34200:33840:0301/143657.451:ERROR:device_event_log_impl.cc(218)] [14:36:57.449] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:36:57.464 [34200:33840:0301/143657.464:ERROR:device_event_log_impl.cc(218)] [14:36:57.462] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 01, 2023 14:37:19.327 [34200:33840:0301/143719.327:ERROR:device_event_log_impl.cc(218)] [14:37:19.327] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:37:19.341 [34200:33840:0301/143719.341:ERROR:device_event_log_impl.cc(218)] [14:37:19.340] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 01, 2023 14:39:08.90 [34200:33840:0301/143908.090:ERROR:device_event_log_impl.cc(218)] [14:39:08.095] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 01, 2023 14:39:08.104 [34200:33840:0301/143908.104:ERROR:device_event_log_impl.cc(218)] [14:39:08.102] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 01, 2023 14:46:21.579 [34200:30988:0301/144621.579:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Mar 02, 2023 13:35:46.155 NEW SESSION
+Mar 02, 2023 13:35:46.155 [27044:384:0302/133546.153:ERROR:device_event_log_impl.cc(218)] [13:35:46.153] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 02, 2023 13:35:46.155 [27044:384:0302/133546.154:ERROR:device_event_log_impl.cc(218)] [13:35:46.154] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 13:35:46.158 [27044:384:0302/133546.158:ERROR:device_event_log_impl.cc(218)] [13:35:46.158] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 13:35:46.213 [27044:32052:0302/133546.213:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:36:10.802 [27044:32052:0302/133610.802:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:36:28.900 [27044:384:0302/133628.900:ERROR:device_event_log_impl.cc(218)] [13:36:28.898] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 02, 2023 13:36:28.906 [27044:384:0302/133628.905:ERROR:device_event_log_impl.cc(218)] [13:36:28.904] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 02, 2023 13:37:06.279 [27044:32052:0302/133706.279:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:37:22.325 [27044:384:0302/133722.325:ERROR:device_event_log_impl.cc(218)] [13:37:22.329] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 02, 2023 13:37:22.333 [27044:384:0302/133722.333:ERROR:device_event_log_impl.cc(218)] [13:37:22.334] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 02, 2023 13:38:10.552 [27044:384:0302/133810.552:ERROR:device_event_log_impl.cc(218)] [13:38:10.547] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 02, 2023 13:38:10.563 [27044:384:0302/133810.563:ERROR:device_event_log_impl.cc(218)] [13:38:10.557] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+Mar 02, 2023 13:38:30.322 [27044:32052:0302/133830.321:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:42:18.511 [27044:32052:0302/134218.510:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:45:38.806 [27044:32052:0302/134538.806:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 02, 2023 13:45:40.819 [27044:32052:0302/134540.819:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:45:43.519 [27044:384:0302/134543.519:ERROR:device_event_log_impl.cc(218)] [13:45:43.526] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 02, 2023 13:47:16.245 [30864:19160:0302/134716.245:ERROR:device_event_log_impl.cc(218)] [13:47:16.254] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 02, 2023 13:47:16.245 [30864:19160:0302/134716.245:ERROR:device_event_log_impl.cc(218)] [13:47:16.255] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 13:47:16.245 [30864:19160:0302/134716.245:ERROR:device_event_log_impl.cc(218)] [13:47:16.260] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 13:47:16.277 [30864:30536:0302/134716.277:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:47:39.670 [30864:30536:0302/134739.670:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:48:47.512 [30864:30536:0302/134847.512:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 02, 2023 13:48:49.556 [30864:30536:0302/134849.555:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:48:52.216 [30864:19160:0302/134852.216:ERROR:device_event_log_impl.cc(218)] [13:48:52.215] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 02, 2023 13:50:04.620 [30864:30536:0302/135004.619:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 02, 2023 13:50:29.717 [30864:30536:0302/135029.716:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+
+Mar 02, 2023 15:04:44.75 NEW SESSION
+Mar 02, 2023 15:04:44.75 [27400:13224:0302/150444.073:ERROR:device_event_log_impl.cc(218)] [15:04:44.070] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 02, 2023 15:04:44.76 [27400:13224:0302/150444.075:ERROR:device_event_log_impl.cc(218)] [15:04:44.074] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 15:04:44.78 [27400:13224:0302/150444.078:ERROR:device_event_log_impl.cc(218)] [15:04:44.077] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 02, 2023 15:52:17.216 NEW SESSION
+Mar 02, 2023 15:52:17.216 [22368:37312:0302/155217.209:ERROR:device_event_log_impl.cc(218)] [15:52:17.214] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 02, 2023 15:52:17.218 [22368:37312:0302/155217.216:ERROR:device_event_log_impl.cc(218)] [15:52:17.216] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 02, 2023 15:52:17.218 [22368:37312:0302/155217.218:ERROR:device_event_log_impl.cc(218)] [15:52:17.219] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 04, 2023 19:43:01.593 NEW SESSION
+Mar 04, 2023 19:43:01.593 [13264:12324:0304/194301.592:ERROR:device_event_log_impl.cc(218)] [19:43:01.592] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 04, 2023 19:43:01.595 [13264:12324:0304/194301.593:ERROR:device_event_log_impl.cc(218)] [19:43:01.594] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2023 19:43:01.601 [13264:12324:0304/194301.600:ERROR:device_event_log_impl.cc(218)] [19:43:01.601] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 04, 2023 19:44:45.137 [13264:12324:0304/194445.137:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 04, 2023 20:38:20.249 [13264:12324:0304/203820.249:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 04, 2023 21:09:33.674 [13264:12324:0304/210933.669:ERROR:device_event_log_impl.cc(218)] [21:09:33.668] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Mar 05, 2023 13:10:19.633 NEW SESSION
+Mar 05, 2023 13:10:19.633 [25940:27108:0305/131019.632:ERROR:device_event_log_impl.cc(218)] [13:10:19.631] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 05, 2023 13:10:19.634 [25940:27108:0305/131019.632:ERROR:device_event_log_impl.cc(218)] [13:10:19.632] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 05, 2023 13:40:52.853 [25940:27108:0305/134052.851:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Mar 05, 2023 20:04:55.871 NEW SESSION
+Mar 05, 2023 20:04:55.871 [28524:25824:0305/200455.866:ERROR:device_event_log_impl.cc(218)] [20:04:55.866] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 05, 2023 20:04:55.872 [28524:25824:0305/200455.869:ERROR:device_event_log_impl.cc(218)] [20:04:55.869] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 05, 2023 21:13:05.488 [28524:25824:0305/211305.486:ERROR:device_event_log_impl.cc(218)] [21:13:05.487] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 05, 2023 22:14:20.635 [28524:23548:0305/221420.630:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Mar 06, 2023 10:00:05.88 NEW SESSION
+Mar 06, 2023 10:00:05.88 [18888:15328:0306/100005.087:ERROR:device_event_log_impl.cc(218)] [10:00:05.087] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 06, 2023 10:00:05.88 [18888:15328:0306/100005.088:ERROR:device_event_log_impl.cc(218)] [10:00:05.088] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 06, 2023 10:00:05.95 [18888:15328:0306/100005.095:ERROR:device_event_log_impl.cc(218)] [10:00:05.095] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 06, 2023 10:04:35.948 [18888:2908:0306/100435.948:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 10:09:06.514 [18888:2908:0306/100906.514:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 10:13:37.51 [18888:2908:0306/101337.051:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 10:18:07.716 [18888:2908:0306/101807.716:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 10:22:38.257 [18888:2908:0306/102238.257:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 10:24:34.178 [18888:2908:0306/102434.178:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 10:48:44.313 [18888:2908:0306/104844.313:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -109
+Mar 06, 2023 10:48:44.838 [18888:15328:0306/104844.822:ERROR:device_event_log_impl.cc(218)] [10:48:44.809] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 06, 2023 10:50:04.924 [18888:15328:0306/105004.924:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 06, 2023 10:53:37.640 [18888:2908:0306/105337.640:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 10:58:07.920 [18888:2908:0306/105807.920:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:02:38.123 [18888:2908:0306/110238.123:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:07:08.399 [18888:2908:0306/110708.399:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:15:42.582 [18888:2908:0306/111542.581:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:20:13.54 [18888:2908:0306/112013.053:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:24:43.229 [18888:2908:0306/112443.229:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:29:13.585 [18888:2908:0306/112913.570:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:33:43.748 [18888:2908:0306/113343.747:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:38:13.880 [18888:2908:0306/113813.880:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:42:44.94 [18888:2908:0306/114244.093:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:47:14.414 [18888:2908:0306/114714.414:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 11:51:44.678 [18888:2908:0306/115144.678:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+
+Mar 06, 2023 21:34:28.575 NEW SESSION
+Mar 06, 2023 21:34:28.575 [11560:25088:0306/213428.573:ERROR:device_event_log_impl.cc(218)] [21:34:28.558] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 06, 2023 21:34:28.576 [11560:25088:0306/213428.574:ERROR:device_event_log_impl.cc(218)] [21:34:28.560] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 06, 2023 21:34:28.582 [11560:25088:0306/213428.581:ERROR:device_event_log_impl.cc(218)] [21:34:28.567] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 06, 2023 22:00:01.399 [11560:18072:0306/220001.399:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 06, 2023 22:05:07.275 [11560:25088:0306/220507.259:ERROR:device_event_log_impl.cc(218)] [22:05:07.260] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 06, 2023 22:05:07.275 [11560:25088:0306/220507.275:ERROR:device_event_log_impl.cc(218)] [22:05:07.274] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 06, 2023 22:05:15.997 [11560:18072:0306/220515.997:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+
+Mar 07, 2023 01:07:03.779 NEW SESSION
+Mar 07, 2023 01:07:03.779 [8376:26928:0307/010703.777:ERROR:device_event_log_impl.cc(218)] [01:07:03.778] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 07, 2023 01:07:03.786 [8376:26928:0307/010703.786:ERROR:device_event_log_impl.cc(218)] [01:07:03.785] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 07, 2023 09:48:28.235 NEW SESSION
+Mar 07, 2023 09:48:28.235 [12648:11996:0307/094828.233:ERROR:device_event_log_impl.cc(218)] [09:48:28.231] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 07, 2023 09:48:28.236 [12648:11996:0307/094828.236:ERROR:device_event_log_impl.cc(218)] [09:48:28.235] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 07, 2023 09:48:28.243 [12648:11996:0307/094828.243:ERROR:device_event_log_impl.cc(218)] [09:48:28.242] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 07, 2023 10:29:59.379 [12648:11996:0307/102959.377:ERROR:CONSOLE(1)] "Uncaught (in promise) RangeError: Invalid line number 165 in 1-line document", source: devtools://devtools/bundled/devtools-frontend/front_end/third_party/codemirror.next/chunk/codemirror.js (1)
+Mar 07, 2023 10:48:02.522 [12648:22048:0307/104802.522:ERROR:connection_factory_impl.cc(472)] ConnectionHandler failed with net error: -2
+Mar 07, 2023 10:52:11.588 [12648:11996:0307/105211.588:ERROR:device_event_log_impl.cc(218)] [10:52:11.254] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 07, 2023 10:52:11.624 [12648:11996:0307/105211.624:ERROR:device_event_log_impl.cc(218)] [10:52:11.316] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 07, 2023 10:52:12.876 [12648:22048:0307/105212.876:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 07, 2023 10:52:19.509 [12648:22048:0307/105219.507:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 07, 2023 10:52:23.916 [12648:22048:0307/105223.916:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 07, 2023 10:54:04.604 [12648:22048:0307/105404.604:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+Mar 07, 2023 10:57:58.63 [12648:22048:0307/105758.063:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -105
+
+Mar 07, 2023 23:44:07.632 NEW SESSION
+Mar 07, 2023 23:44:07.632 [15276:6516:0307/234407.629:ERROR:device_event_log_impl.cc(218)] [23:44:07.629] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 07, 2023 23:44:07.633 [15276:6516:0307/234407.632:ERROR:device_event_log_impl.cc(218)] [23:44:07.632] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 08, 2023 19:15:03.893 NEW SESSION
+Mar 08, 2023 19:15:03.893 [24700:15132:0308/191503.885:ERROR:device_event_log_impl.cc(218)] [19:15:03.885] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 08, 2023 19:15:03.893 [24700:15132:0308/191503.886:ERROR:device_event_log_impl.cc(218)] [19:15:03.886] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 08, 2023 19:15:03.894 [24700:15132:0308/191503.893:ERROR:device_event_log_impl.cc(218)] [19:15:03.893] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 08, 2023 19:15:03.947 [24700:6808:0308/191503.946:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 08, 2023 19:15:29.40 [24700:6808:0308/191529.040:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 08, 2023 19:16:21.658 [24700:6808:0308/191621.658:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 08, 2023 19:18:03.225 [24700:6808:0308/191803.225:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 08, 2023 19:21:35.546 [24700:6808:0308/192135.546:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 08, 2023 19:26:57.220 [24700:15132:0308/192657.220:ERROR:device_event_log_impl.cc(218)] [19:26:57.218] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 08, 2023 19:27:35.617 [24700:6808:0308/192735.617:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 08, 2023 19:37:35.634 [24700:6808:0308/193735.634:ERROR:connection_factory_impl.cc(427)] Failed to connect to MCS endpoint with error -106
+Mar 08, 2023 19:38:55.25 [24700:15132:0308/193855.025:ERROR:device_event_log_impl.cc(218)] [19:38:55.035] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 08, 2023 19:38:55.51 [24700:15132:0308/193855.051:ERROR:device_event_log_impl.cc(218)] [19:38:55.053] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Mar 10, 2023 10:14:34.329 NEW SESSION
+Mar 10, 2023 10:14:34.329 [32152:30840:0310/101434.326:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+Mar 10, 2023 10:14:34.988 [32152:6280:0310/101434.988:ERROR:get_updates_processor.cc(264)] PostClientToServerMessage() failed during GetUpdates with error 2
+Mar 10, 2023 10:18:07.700 [13236:30620:0310/101807.700:ERROR:device_event_log_impl.cc(218)] [10:18:07.699] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 10, 2023 10:18:07.700 [13236:30620:0310/101807.700:ERROR:device_event_log_impl.cc(218)] [10:18:07.700] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 10:19:32.569 [13236:30620:0310/101932.568:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Mar 10, 2023 14:22:41.653 NEW SESSION
+Mar 10, 2023 14:22:41.653 [30300:20600:0310/142241.652:ERROR:device_event_log_impl.cc(218)] [14:22:41.652] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 10, 2023 14:22:41.653 [30300:20600:0310/142241.652:ERROR:device_event_log_impl.cc(218)] [14:22:41.653] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 14:22:41.656 [30300:20600:0310/142241.656:ERROR:device_event_log_impl.cc(218)] [14:22:41.659] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 10, 2023 19:00:49.500 NEW SESSION
+Mar 10, 2023 19:00:49.500 [32156:24000:0310/190049.499:ERROR:device_event_log_impl.cc(218)] [19:00:49.499] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 10, 2023 19:00:49.501 [32156:24000:0310/190049.501:ERROR:device_event_log_impl.cc(218)] [19:00:49.501] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 10, 2023 19:00:49.508 [32156:24000:0310/190049.508:ERROR:device_event_log_impl.cc(218)] [19:00:49.508] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 12, 2023 10:09:02.480 NEW SESSION
+Mar 12, 2023 10:09:02.480 [23972:25784:0312/100902.480:ERROR:device_event_log_impl.cc(218)] [10:09:02.296] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 12, 2023 10:09:02.518 [23972:25784:0312/100902.518:ERROR:device_event_log_impl.cc(218)] [10:09:02.518] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 10:09:02.528 [23972:25784:0312/100902.528:ERROR:device_event_log_impl.cc(218)] [10:09:02.528] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 12, 2023 16:17:25.521 NEW SESSION
+Mar 12, 2023 16:17:25.521 [19944:22816:0312/161725.519:ERROR:device_event_log_impl.cc(218)] [16:17:25.518] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 12, 2023 16:17:25.522 [19944:22816:0312/161725.521:ERROR:device_event_log_impl.cc(218)] [16:17:25.522] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 12, 2023 16:17:25.525 [19944:22816:0312/161725.524:ERROR:device_event_log_impl.cc(218)] [16:17:25.525] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Mar 15, 2023 08:49:22.339 NEW SESSION
+Mar 15, 2023 08:49:22.339 [19936:20872:0315/084922.338:ERROR:device_event_log_impl.cc(222)] [08:49:22.338] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 15, 2023 08:49:22.340 [19936:20872:0315/084922.339:ERROR:device_event_log_impl.cc(222)] [08:49:22.339] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 15, 2023 08:49:22.343 [19936:20872:0315/084922.343:ERROR:device_event_log_impl.cc(222)] [08:49:22.343] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 15, 2023 08:49:22.978 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 17, 2023 23:16:36.401 NEW SESSION
+Mar 17, 2023 23:16:36.401 [23288:11484:0317/231636.399:ERROR:device_event_log_impl.cc(222)] [23:16:36.399] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Mar 17, 2023 23:16:36.402 [23288:11484:0317/231636.400:ERROR:device_event_log_impl.cc(222)] [23:16:36.400] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 17, 2023 23:16:36.404 [23288:11484:0317/231636.404:ERROR:device_event_log_impl.cc(222)] [23:16:36.403] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+May 09, 2023 07:42:37.987 NEW SESSION
+May 09, 2023 07:42:37.987 [340:1948:0509/074237.987:ERROR:device_event_log_impl.cc(222)] [07:42:37.974] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 09, 2023 07:42:37.987 [340:1948:0509/074237.987:ERROR:device_event_log_impl.cc(222)] [07:42:37.974] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2023 07:42:37.987 [340:1948:0509/074237.987:ERROR:device_event_log_impl.cc(222)] [07:42:37.977] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2023 07:42:38.36 [340:2072:0509/074238.036:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 09, 2023 07:42:38.541 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 09, 2023 07:43:01.989 [340:2072:0509/074301.989:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 09, 2023 07:43:54.510 [340:2072:0509/074354.510:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+
+May 09, 2023 08:50:43.535 NEW SESSION
+May 09, 2023 08:50:43.535 [15932:27132:0509/085043.534:ERROR:device_event_log_impl.cc(222)] [08:50:43.533] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 09, 2023 08:50:43.535 [15932:27132:0509/085043.534:ERROR:device_event_log_impl.cc(222)] [08:50:43.534] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2023 08:50:43.537 [15932:27132:0509/085043.537:ERROR:device_event_log_impl.cc(222)] [08:50:43.537] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2023 08:50:43.566 [15932:26912:0509/085043.565:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 09, 2023 08:50:44.507 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 09, 2023 08:51:03.952 [15932:26912:0509/085103.951:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 09, 2023 08:52:01.897 [15932:26912:0509/085201.897:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 09, 2023 08:53:35.772 [15932:26912:0509/085335.772:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 09, 2023 08:55:43.734 [22924:6800:0509/085543.733:ERROR:device_event_log_impl.cc(222)] [08:55:43.734] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 09, 2023 08:55:43.734 [22924:6800:0509/085543.734:ERROR:device_event_log_impl.cc(222)] [08:55:43.734] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2023 08:55:43.738 [22924:6800:0509/085543.738:ERROR:device_event_log_impl.cc(222)] [08:55:43.737] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+May 09, 2023 08:55:43.760 [22924:11520:0509/085543.760:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 09, 2023 08:55:44.226 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+May 09, 2023 08:56:09.274 [22924:11520:0509/085609.273:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+May 09, 2023 08:56:55.697 [22924:11520:0509/085655.697:ERROR:connection_factory_impl.cc(429)] Failed to connect to MCS endpoint with error -106
+
+May 25, 2023 18:11:25.606 NEW SESSION
+May 25, 2023 18:11:25.606 [17472:28692:0525/181125.603:ERROR:device_event_log_impl.cc(222)] [18:11:25.604] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+May 25, 2023 23:41:28.77 NEW SESSION
+May 25, 2023 23:41:28.77 [20936:4264:0525/234128.076:ERROR:device_event_log_impl.cc(222)] [23:41:28.076] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 25, 2023 23:46:46.885 [20936:4264:0525/234646.883:ERROR:interface_endpoint_client.cc(696)] Message 5 rejected by interface blink.mojom.WidgetHost
+May 26, 2023 01:12:01.793 [20936:4264:0526/011201.792:ERROR:interface_endpoint_client.cc(696)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+May 29, 2023 15:48:31.662 NEW SESSION
+May 29, 2023 15:48:31.662 [24532:20236:0529/154831.661:ERROR:device_event_log_impl.cc(222)] [15:48:31.660] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+May 29, 2023 17:21:43.169 NEW SESSION
+May 29, 2023 17:21:43.169 [24124:28076:0529/172143.168:ERROR:device_event_log_impl.cc(222)] [17:21:43.167] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 29, 2023 17:32:31.972 [24124:28076:0529/173231.972:ERROR:device_event_log_impl.cc(222)] [17:32:31.972] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 29, 2023 17:33:00.896 [24124:28076:0529/173300.896:ERROR:device_event_log_impl.cc(222)] [17:33:00.896] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+May 29, 2023 17:33:00.906 [24124:28076:0529/173300.906:ERROR:device_event_log_impl.cc(222)] [17:33:00.903] USB: usb_service_win.cc:307 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+
+Jun 24, 2023 22:46:21.702 NEW SESSION
+Jun 24, 2023 22:46:21.702 [17736:11972:0624/224621.699:ERROR:device_event_log_impl.cc(222)] [22:46:21.700] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+
+Sep 25, 2023 07:41:13.323 NEW SESSION
+Sep 25, 2023 07:41:13.323 [11320:13880:0925/074113.320:ERROR:device_event_log_impl.cc(222)] [07:41:13.321] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Sep 25, 2023 07:41:14.761 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

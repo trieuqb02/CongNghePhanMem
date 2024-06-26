@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;shopsport/src/main/webapp/WEB-INF/views/admin/receipt/quantityDR-receipt&apos; to &apos;quantityDR-receipt.jsp&apos;" description="Rename resource &apos;quantityDR-receipt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/views/admin/receipt/quantityDR-receipt" name="quantityDR-receipt.jsp" stamp="1677999361757" updateReferences="true"/>
+</session>

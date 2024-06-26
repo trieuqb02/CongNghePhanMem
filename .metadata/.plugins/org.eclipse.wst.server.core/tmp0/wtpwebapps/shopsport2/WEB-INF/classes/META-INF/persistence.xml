@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.0"
+	xmlns="http://java.sun.com/xml/ns/persistence"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/persistence http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd">
+	<persistence-unit name="persistence-data">
+		<class>shopsport.nhom18.model.Account</class>
+		<class>shopsport.nhom18.model.Role</class>
+		<class>shopsport.nhom18.model.Customer</class>
+		<class>shopsport.nhom18.model.Staff</class>
+		<class>shopsport.nhom18.model.Category</class>
+		<class>shopsport.nhom18.model.Product</class>
+		<class>shopsport.nhom18.model.Supplier</class>
+		<class>shopsport.nhom18.model.Receipt</class>
+		<class>shopsport.nhom18.model.DetailsReceipt</class>
+		<class>shopsport.nhom18.model.Cart</class>
+		<class>shopsport.nhom18.model.DetailsProduct</class>
+		<class>shopsport.nhom18.model.Order</class>
+		<class>shopsport.nhom18.model.DetailsOder</class>
+	</persistence-unit>
+</persistence>

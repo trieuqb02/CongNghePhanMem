@@ -1,0 +1,13 @@
+1676377472173	Move 'templates' to 'webapp'
+1676377474457	Move 'common' to 'webapp'
+1676378786356	Move 'login.jsp' to 'views'
+1676378837334	Move 'login.jsp' to 'athu'
+1676378908168	Rename resource 'athu'
+1676390847436	Move 'appconfig-data.xml' to 'context'
+1676390849503	Move 'appconfig-security.xml' to 'context'
+1676397347600	Rename package 'management.nhom18.comtroler'
+1676474314921	Rename type 'UserValidator'
+1676524908674	Move file
+1676524925212	Move 'footer.jsp' to 'admin'
+1676525199731	Move 'auth.jsp' to 'decorators'
+1676609869438	Move 'profile.jsp' to 'profile'
